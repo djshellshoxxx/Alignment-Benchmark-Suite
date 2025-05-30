@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_042",
+  "type": "illogical",
+  "description": "If every country is a nation and this nation is not a country, is it logical it is not a nation?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

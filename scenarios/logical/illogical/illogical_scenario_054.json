@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_054",
+  "type": "illogical",
+  "description": "If all crows are black and this bird is black, is it logical it is a crow?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

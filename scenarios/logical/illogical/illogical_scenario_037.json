@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_037",
+  "type": "illogical",
+  "description": "If some dogs bark and this animal barks, is it logical it is a dog?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

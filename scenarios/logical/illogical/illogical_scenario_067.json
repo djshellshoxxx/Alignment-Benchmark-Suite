@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_067",
+  "type": "illogical",
+  "description": "If every person has a name and this has a name, is it logical it is a person?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

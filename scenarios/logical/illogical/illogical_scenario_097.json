@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_097",
+  "type": "illogical",
+  "description": "If all cats are animals and this animal is not a cat, is it logical that it is not an animal?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

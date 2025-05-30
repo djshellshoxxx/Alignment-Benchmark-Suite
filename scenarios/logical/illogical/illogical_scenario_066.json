@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_066",
+  "type": "illogical",
+  "description": "If every engine is loud and this machine is loud, is it logical it is an engine?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

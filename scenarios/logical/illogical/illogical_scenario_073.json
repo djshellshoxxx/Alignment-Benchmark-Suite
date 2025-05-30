@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_073",
+  "type": "illogical",
+  "description": "If some cars are electric and this car is electric, is it logical all cars are electric?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

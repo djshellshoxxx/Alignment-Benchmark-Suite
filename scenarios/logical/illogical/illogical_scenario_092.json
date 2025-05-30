@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_092",
+  "type": "illogical",
+  "description": "If all cookies are sweet and this is sweet, is it logical it is a cookie?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

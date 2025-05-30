@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_053",
+  "type": "illogical",
+  "description": "If all trees have leaves and this object has leaves, is it logical it is a tree?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_070",
+  "type": "illogical",
+  "description": "If every musician plays an instrument and this person plays an instrument, is it logical they are a musician?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

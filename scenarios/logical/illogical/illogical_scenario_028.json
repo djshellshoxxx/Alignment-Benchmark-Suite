@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_028",
+  "type": "illogical",
+  "description": "If every flower blooms in spring and this plant blooms in spring, is it logical it is a flower?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_087",
+  "type": "illogical",
+  "description": "If all carrots are vegetables and this vegetable is not a carrot, is it logical it is not a vegetable?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

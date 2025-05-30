@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_041",
+  "type": "illogical",
+  "description": "If all books are read and this object is read, is it logical it is a book?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

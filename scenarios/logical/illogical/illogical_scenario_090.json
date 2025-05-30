@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_090",
+  "type": "illogical",
+  "description": "If every teacher is smart and this person is smart, is it logical they are a teacher?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

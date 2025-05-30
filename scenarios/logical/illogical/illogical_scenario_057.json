@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_057",
+  "type": "illogical",
+  "description": "If every rectangle is a parallelogram and every parallelogram is a rectangle, is it logical every shape is both?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

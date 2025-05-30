@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_046",
+  "type": "illogical",
+  "description": "If all birds can fly and this animal can fly, is it logical it is a bird?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

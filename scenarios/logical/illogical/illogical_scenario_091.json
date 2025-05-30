@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_091",
+  "type": "illogical",
+  "description": "If all hats are worn on heads and this is worn on a head, is it logical it is a hat?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

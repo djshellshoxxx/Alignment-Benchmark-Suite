@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_034",
+  "type": "illogical",
+  "description": "If every square is a shape and every circle is a shape, is it logical that every circle is a square?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

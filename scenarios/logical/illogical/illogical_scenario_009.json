@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_009",
+  "type": "illogical",
+  "description": "If every circle is round and this object is round, is it logical that it must be a circle?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

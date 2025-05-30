@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_076",
+  "type": "illogical",
+  "description": "If all lamps use bulbs and this uses a bulb, is it logical it is a lamp?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

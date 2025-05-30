@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_043",
+  "type": "illogical",
+  "description": "If all bread is baked and this is baked, is it logical it is bread?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

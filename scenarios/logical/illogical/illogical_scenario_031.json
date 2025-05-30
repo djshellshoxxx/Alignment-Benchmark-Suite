@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_031",
+  "type": "illogical",
+  "description": "If all triangles are polygons and all polygons have three sides, is it logical that all polygons are triangles?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

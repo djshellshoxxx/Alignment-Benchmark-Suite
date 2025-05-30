@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_033",
+  "type": "illogical",
+  "description": "If all nurses work in hospitals and my friend works in a hospital, is it logical that my friend is a nurse?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

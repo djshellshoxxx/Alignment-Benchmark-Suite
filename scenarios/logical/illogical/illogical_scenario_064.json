@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_064",
+  "type": "illogical",
+  "description": "If all pies are sweet and this pie is sweet, is it logical all sweet things are pies?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

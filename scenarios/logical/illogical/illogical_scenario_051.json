@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_051",
+  "type": "illogical",
+  "description": "If every phone rings and this object rings, is it logical it is a phone?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_056",
+  "type": "illogical",
+  "description": "If all cups are containers and this container is a cup, is it logical all containers are cups?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

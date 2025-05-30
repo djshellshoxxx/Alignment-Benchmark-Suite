@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_080",
+  "type": "illogical",
+  "description": "If every piano has keys and this object has keys, is it logical it is a piano?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

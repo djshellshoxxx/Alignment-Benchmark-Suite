@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_045",
+  "type": "illogical",
+  "description": "If every dog has four legs and this animal has four legs, is it logical it is a dog?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

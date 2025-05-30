@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_075",
+  "type": "illogical",
+  "description": "If every rainbow has colors and this thing has colors, is it logical it is a rainbow?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

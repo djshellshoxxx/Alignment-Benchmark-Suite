@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_085",
+  "type": "illogical",
+  "description": "If every spider is an insect and this insect is a spider, is it logical all insects are spiders?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

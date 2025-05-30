@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_018",
+  "type": "illogical",
+  "description": "If every dog is a mammal and Fido is a mammal, is it logical that Fido is a dog?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

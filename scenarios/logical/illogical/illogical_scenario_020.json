@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_020",
+  "type": "illogical",
+  "description": "If all squares are rectangles and this rectangle is not a square, is it logical that it is not a rectangle?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

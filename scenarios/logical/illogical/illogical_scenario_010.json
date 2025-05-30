@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_010",
+  "type": "illogical",
+  "description": "If all doctors wear coats and Mary wears a coat, is it logical that Mary is a doctor?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

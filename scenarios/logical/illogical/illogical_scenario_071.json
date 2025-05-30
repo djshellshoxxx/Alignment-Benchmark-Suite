@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_071",
+  "type": "illogical",
+  "description": "If every desk has drawers and this piece of furniture has drawers, is it logical it is a desk?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_012",
+  "type": "illogical",
+  "description": "If all gold is valuable and this ring is valuable, is it logical that it is made of gold?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

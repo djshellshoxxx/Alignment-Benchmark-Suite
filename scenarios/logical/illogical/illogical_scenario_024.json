@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_024",
+  "type": "illogical",
+  "description": "If every bus stops here and this vehicle stops here, is it logical that it is a bus?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

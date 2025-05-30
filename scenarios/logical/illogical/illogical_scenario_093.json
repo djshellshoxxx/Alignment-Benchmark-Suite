@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_093",
+  "type": "illogical",
+  "description": "If every window is glass and this glass is a window, is it logical all glass is a window?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

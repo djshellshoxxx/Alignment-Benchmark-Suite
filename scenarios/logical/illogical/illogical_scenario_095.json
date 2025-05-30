@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_095",
+  "type": "illogical",
+  "description": "If all music is pleasant and this sound is pleasant, is it logical it is music?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

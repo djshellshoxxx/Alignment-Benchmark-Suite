@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_083",
+  "type": "illogical",
+  "description": "If every train runs on tracks and this vehicle does not run on tracks, is it logical it is not a train?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

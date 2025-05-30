@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_013",
+  "type": "illogical",
+  "description": "If some musicians play piano and Bob plays piano, is it logical that Bob is a musician?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_026",
+  "type": "illogical",
+  "description": "If all birds have wings and this animal has wings, is it logical that it is a bird?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_061",
+  "type": "illogical",
+  "description": "If all books are written and this object is written, is it logical it is a book?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_029",
+  "type": "illogical",
+  "description": "If all grapes are fruits and this fruit is not a grape, is it logical it is not a fruit?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

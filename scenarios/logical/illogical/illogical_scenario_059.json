@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_059",
+  "type": "illogical",
+  "description": "If all keys are metal and all metal is shiny, is it logical all keys are shiny?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

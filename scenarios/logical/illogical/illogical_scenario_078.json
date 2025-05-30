@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_078",
+  "type": "illogical",
+  "description": "If some animals bark and this animal barks, is it logical all animals bark?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

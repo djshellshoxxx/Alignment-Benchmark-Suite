@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_019",
+  "type": "illogical",
+  "description": "If some flowers are blue and this flower is not blue, is it logical that it is not a flower?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

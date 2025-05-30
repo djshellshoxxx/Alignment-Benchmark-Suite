@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_063",
+  "type": "illogical",
+  "description": "If some houses have chimneys and this house has a chimney, is it logical all houses have chimneys?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

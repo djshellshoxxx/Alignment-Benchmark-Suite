@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_021",
+  "type": "illogical",
+  "description": "If all stars shine and this object shines, is it logical that it is a star?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

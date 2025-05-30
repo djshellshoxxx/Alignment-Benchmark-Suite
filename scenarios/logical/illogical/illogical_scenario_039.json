@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_039",
+  "type": "illogical",
+  "description": "If all men are tall and John is tall, is it logical John is a man?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

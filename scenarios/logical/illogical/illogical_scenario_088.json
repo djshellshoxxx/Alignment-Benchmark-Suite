@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_088",
+  "type": "illogical",
+  "description": "If every writer writes and this person writes, is it logical they are a writer?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

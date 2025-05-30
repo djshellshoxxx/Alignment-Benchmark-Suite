@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_079",
+  "type": "illogical",
+  "description": "If all grapes are purple and these grapes are not purple, is it logical they are not grapes?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

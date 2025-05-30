@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_094",
+  "type": "illogical",
+  "description": "If all socks are worn on feet and this is worn on feet, is it logical it is a sock?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

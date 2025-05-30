@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_017",
+  "type": "illogical",
+  "description": "If all teachers have degrees and Susan has a degree, is it logical that Susan is a teacher?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_005",
+  "type": "illogical",
+  "description": "If all birds fly and penguins cannot fly, is it logical that penguins are not birds?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

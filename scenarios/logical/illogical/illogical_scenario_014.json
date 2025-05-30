@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_014",
+  "type": "illogical",
+  "description": "If all cows are mammals and all mammals breathe air, is it logical that anything that breathes air is a cow?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

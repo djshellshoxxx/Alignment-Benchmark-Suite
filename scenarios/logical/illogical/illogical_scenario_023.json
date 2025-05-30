@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_023",
+  "type": "illogical",
+  "description": "If all musicians like music and Mike likes music, is it logical that Mike is a musician?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

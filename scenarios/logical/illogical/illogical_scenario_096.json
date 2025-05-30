@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_096",
+  "type": "illogical",
+  "description": "If every bicycle has two wheels and this has two wheels, is it logical it is a bicycle?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

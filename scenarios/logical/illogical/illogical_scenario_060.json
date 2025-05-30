@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_060",
+  "type": "illogical",
+  "description": "If some shoes are blue and these shoes are blue, is it logical all shoes are blue?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_084",
+  "type": "illogical",
+  "description": "If every singer sings and this person does not sing, is it logical they are not a singer?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

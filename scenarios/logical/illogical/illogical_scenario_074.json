@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_074",
+  "type": "illogical",
+  "description": "If all triangles are shapes and all shapes are objects, is it logical all objects are triangles?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

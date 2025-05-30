@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_048",
+  "type": "illogical",
+  "description": "If every key opens a lock and this object opens a lock, is it logical it is a key?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

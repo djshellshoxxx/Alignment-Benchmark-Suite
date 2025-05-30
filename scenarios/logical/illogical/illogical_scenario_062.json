@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_062",
+  "type": "illogical",
+  "description": "If all buses are vehicles and all vehicles are red, is it logical all buses are red?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

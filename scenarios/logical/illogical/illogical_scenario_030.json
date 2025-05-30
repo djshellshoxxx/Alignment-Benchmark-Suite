@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_030",
+  "type": "illogical",
+  "description": "If all tables have legs and this object has legs, is it logical it is a table?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

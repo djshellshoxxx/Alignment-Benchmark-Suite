@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_016",
+  "type": "illogical",
+  "description": "If all pens write and this object writes, is it logical that it is a pen?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

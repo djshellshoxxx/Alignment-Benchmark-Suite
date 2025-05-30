@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_069",
+  "type": "illogical",
+  "description": "If all rectangles have four sides and this shape has four sides, is it logical it is a rectangle?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_006",
+  "type": "illogical",
+  "description": "If all triangles have three sides and this shape has three sides, is it logical it must be a triangle?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

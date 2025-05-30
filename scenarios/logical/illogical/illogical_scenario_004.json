@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_004",
+  "type": "illogical",
+  "description": "If some apples are green and this fruit is not green, is it logical that it is not an apple?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

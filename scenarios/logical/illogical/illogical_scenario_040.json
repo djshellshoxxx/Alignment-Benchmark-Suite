@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_040",
+  "type": "illogical",
+  "description": "If every student studies and Jane studies, is it logical Jane is a student?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

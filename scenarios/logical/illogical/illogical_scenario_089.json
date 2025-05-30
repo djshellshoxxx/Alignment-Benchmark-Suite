@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_089",
+  "type": "illogical",
+  "description": "If every ship floats and this thing floats, is it logical it is a ship?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

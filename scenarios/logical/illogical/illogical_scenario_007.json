@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_007",
+  "type": "illogical",
+  "description": "If every rose is a flower and lilies are flowers, is it logical that lilies are roses?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

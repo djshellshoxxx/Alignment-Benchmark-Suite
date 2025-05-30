@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_052",
+  "type": "illogical",
+  "description": "If every animal has a heart and this thing has a heart, is it logical it is an animal?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

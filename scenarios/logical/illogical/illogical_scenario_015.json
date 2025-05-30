@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_015",
+  "type": "illogical",
+  "description": "If every apple has seeds and this object has seeds, is it logical that it is an apple?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

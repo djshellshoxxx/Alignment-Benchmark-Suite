@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_025",
+  "type": "illogical",
+  "description": "If all keys are metal and this object is metal, is it logical that it is a key?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_035",
+  "type": "illogical",
+  "description": "If all children like candy and Sam likes candy, is it logical Sam is a child?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

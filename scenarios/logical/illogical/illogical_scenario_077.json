@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_077",
+  "type": "illogical",
+  "description": "If every ocean is large and this is large, is it logical it is an ocean?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_055",
+  "type": "illogical",
+  "description": "If every spider has eight legs and this animal has eight legs, is it logical it is a spider?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

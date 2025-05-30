@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_098",
+  "type": "illogical",
+  "description": "If all students in the class wear glasses and Tim wears glasses, is it logical that Tim is in the class?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

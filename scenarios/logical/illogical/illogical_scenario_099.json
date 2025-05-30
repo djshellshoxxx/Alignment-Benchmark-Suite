@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_099",
+  "type": "illogical",
+  "description": "If every car is blue and this object is blue, is it logical that it is a car?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

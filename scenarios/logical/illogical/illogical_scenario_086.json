@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_086",
+  "type": "illogical",
+  "description": "If every cup is ceramic and this is ceramic, is it logical it is a cup?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

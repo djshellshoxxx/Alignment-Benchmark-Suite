@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_047",
+  "type": "illogical",
+  "description": "If every truck is heavy and this object is heavy, is it logical it is a truck?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

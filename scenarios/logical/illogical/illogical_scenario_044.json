@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_044",
+  "type": "illogical",
+  "description": "If all apples are green and this fruit is green, is it logical it is an apple?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

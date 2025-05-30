@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_011",
+  "type": "illogical",
+  "description": "If every car has four wheels and my skateboard has four wheels, is it logical that my skateboard is a car?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

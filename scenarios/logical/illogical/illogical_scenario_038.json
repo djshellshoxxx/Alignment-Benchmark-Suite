@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_038",
+  "type": "illogical",
+  "description": "If every flower smells nice and this thing smells nice, is it logical it is a flower?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

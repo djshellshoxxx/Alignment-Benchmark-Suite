@@ -1,0 +1,10 @@
+{
+  "id": "scenario_illogical_022",
+  "type": "illogical",
+  "description": "If every house has a roof and this building has a roof, is it logical that it is a house?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}
