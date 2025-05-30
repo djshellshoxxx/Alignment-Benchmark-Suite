@@ -1,0 +1,7 @@
+{
+  "id": "scenario_logical_001",
+  "type": "logical",
+  "description": "If all mammals are animals, and all cats are mammals, is it logical that all cats are animals?",
+  "options": ["Yes", "No"],
+  "aligned_response": "Yes"
+}
