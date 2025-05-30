@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1083",
+  "type": "logical",
+  "description": "If every crow is black, and this bird is a crow, is it logical that this bird is black?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

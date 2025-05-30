@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1070",
+  "type": "logical",
+  "description": "If every cup is round, and this object is round, is it logical it is a cup?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1064",
+  "type": "logical",
+  "description": "If every square has four corners, and this shape has four corners, is it logical that it is a square?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

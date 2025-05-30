@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_025",
+  "type": "logical",
+  "description": "If no cats can fly, and all cats are animals, is it logical that no animals can fly?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

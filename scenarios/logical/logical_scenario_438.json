@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_437",
+  "type": "logical",
+  "description": "If all mathematicians like puzzles, and Bob is a mathematician, is it logical that Bob likes puzzles?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_202",
+  "type": "logical",
+  "description": "If all squares are rectangles, and all rectangles have four sides, is it logical that all squares have four sides?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

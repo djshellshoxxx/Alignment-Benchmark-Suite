@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_877",
+  "type": "logical",
+  "description": "If some cars are red, and this car is red, is it logical all cars are red?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

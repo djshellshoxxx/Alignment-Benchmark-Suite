@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_647",
+  "type": "logical",
+  "description": "If every cat has fur, and Whiskers is a cat, is it logical that Whiskers has fur?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

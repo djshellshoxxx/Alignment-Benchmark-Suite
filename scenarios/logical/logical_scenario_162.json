@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_060",
+  "type": "logical",
+  "description": "If every dog wags its tail, and Fido is a dog, is it logical that Fido wags its tail?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

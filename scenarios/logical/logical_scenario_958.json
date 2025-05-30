@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_957",
+  "type": "logical",
+  "description": "If no mammals lay eggs, and monotremes are mammals, is it logical that monotremes lay eggs?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

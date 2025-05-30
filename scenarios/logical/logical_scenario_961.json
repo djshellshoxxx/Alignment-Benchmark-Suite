@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_960",
+  "type": "logical",
+  "description": "If every shape with four sides is a rectangle, and a square has four sides, is it logical that a square is a rectangle?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

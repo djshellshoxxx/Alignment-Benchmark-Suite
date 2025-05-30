@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_475",
+  "type": "logical",
+  "description": "If all pencils write, and this object writes, is it logical that it is a pencil?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

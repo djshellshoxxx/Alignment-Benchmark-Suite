@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_962",
+  "type": "logical",
+  "description": "If all violins have strings, and this instrument has strings, is it logical it is a violin?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

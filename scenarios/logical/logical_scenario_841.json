@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_840",
+  "type": "logical",
+  "description": "If all cups are containers, and mugs are cups, is it logical that all mugs are containers?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

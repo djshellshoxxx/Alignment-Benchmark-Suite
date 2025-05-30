@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1045",
+  "type": "logical",
+  "description": "If all keys open locks, and this key does not open any lock, is it logical that it is not a key?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

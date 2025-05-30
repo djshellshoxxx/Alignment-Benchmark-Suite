@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_908",
+  "type": "logical",
+  "description": "If all men are mortal, and Socrates is a man, is it logical that Socrates is mortal?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

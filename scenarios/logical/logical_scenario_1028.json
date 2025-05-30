@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1027",
+  "type": "logical",
+  "description": "If all planets orbit stars, and Earth is a planet, is it logical that Earth orbits a star?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

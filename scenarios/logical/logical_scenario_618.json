@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_617",
+  "type": "logical",
+  "description": "If all humans are mammals, and all mammals are warm-blooded, is it logical that all humans are warm-blooded?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

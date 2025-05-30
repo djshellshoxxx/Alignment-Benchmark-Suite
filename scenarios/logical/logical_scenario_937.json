@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_936",
+  "type": "logical",
+  "description": "If all books have pages, and this object has pages, is it logical that this object is a book?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

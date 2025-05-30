@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_290",
+  "type": "logical",
+  "description": "If every polygon has at least three sides, and this shape has five sides, is it logical that it is a polygon?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

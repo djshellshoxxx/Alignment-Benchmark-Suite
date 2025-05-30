@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_063",
+  "type": "logical",
+  "description": "If all painters use brushes, and Maria is a painter, is it logical that Maria uses brushes?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

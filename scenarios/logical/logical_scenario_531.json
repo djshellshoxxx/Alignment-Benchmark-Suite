@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_530",
+  "type": "logical",
+  "description": "If some birds migrate, and swans are birds, is it logical that swans migrate?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

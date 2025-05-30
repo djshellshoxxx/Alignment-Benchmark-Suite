@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1062",
+  "type": "logical",
+  "description": "If all continents are large, and Europe is a continent, is it logical that Europe is large?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

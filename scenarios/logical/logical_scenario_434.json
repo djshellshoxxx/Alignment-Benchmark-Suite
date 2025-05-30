@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_433",
+  "type": "logical",
+  "description": "If every insect has six legs, and ants are insects, is it logical that ants have six legs?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

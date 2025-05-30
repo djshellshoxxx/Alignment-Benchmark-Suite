@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_070",
+  "type": "logical",
+  "description": "If all humans have two legs, and Greg has two legs, is it logical that Greg is human?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

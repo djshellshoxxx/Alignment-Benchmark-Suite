@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_705",
+  "type": "logical",
+  "description": "If no dogs are cats, and all cats are mammals, is it logical that no dogs are mammals?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

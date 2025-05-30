@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_873",
+  "type": "logical",
+  "description": "If no triangles have four sides, and this shape has four sides, is it logical it is a triangle?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

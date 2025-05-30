@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_989",
+  "type": "logical",
+  "description": "If no musicians are doctors, and Jane is a musician, is it logical that Jane is not a doctor?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_541",
+  "type": "logical",
+  "description": "If all oceans are salty, and the Pacific is an ocean, is it logical that the Pacific is salty?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

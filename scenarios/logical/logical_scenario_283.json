@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_282",
+  "type": "logical",
+  "description": "If all swans are birds, and all birds have beaks, is it logical that all swans have beaks?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

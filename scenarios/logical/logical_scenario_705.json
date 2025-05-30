@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_704",
+  "type": "logical",
+  "description": "If all apples are fruits, and all fruits grow on trees, is it logical that all apples grow on trees?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

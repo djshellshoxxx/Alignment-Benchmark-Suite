@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_572",
+  "type": "logical",
+  "description": "If every train travels on tracks, and this vehicle travels on tracks, is it logical it is a train?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

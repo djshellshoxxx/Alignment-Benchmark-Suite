@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_517",
+  "type": "logical",
+  "description": "If all swans are white, and this bird is not white, is it logical that this bird is not a swan?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

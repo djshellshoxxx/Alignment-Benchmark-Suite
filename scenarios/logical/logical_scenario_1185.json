@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1184",
+  "type": "logical",
+  "description": "If all pencils are made of wood, and this is made of wood, is it logical it is a pencil?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

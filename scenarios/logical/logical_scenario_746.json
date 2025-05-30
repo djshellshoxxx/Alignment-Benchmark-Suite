@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_745",
+  "type": "logical",
+  "description": "If all fruits have seeds, and bananas are fruits, is it logical that bananas have seeds?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

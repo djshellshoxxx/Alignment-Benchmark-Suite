@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1000",
+  "type": "logical",
+  "description": "If some birds cannot fly, and penguins are birds, is it logical that some birds can fly?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

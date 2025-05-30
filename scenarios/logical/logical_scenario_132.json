@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_030",
+  "type": "logical",
+  "description": "If no fruit is an animal, and tomatoes are fruit, is it logical that no tomatoes are animals?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

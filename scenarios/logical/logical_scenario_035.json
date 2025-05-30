@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_034",
+  "type": "logical",
+  "description": "If no squares are circles, and this shape is a square, is it logical that this shape is not a circle?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

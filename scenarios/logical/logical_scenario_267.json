@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_266",
+  "type": "logical",
+  "description": "If all children like candy, and this person does not like candy, is it logical that this person is not a child?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

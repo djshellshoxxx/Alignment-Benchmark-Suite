@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_906",
+  "type": "logical",
+  "description": "If some pencils are red, and all pencils are writing tools, is it logical that some writing tools are red?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

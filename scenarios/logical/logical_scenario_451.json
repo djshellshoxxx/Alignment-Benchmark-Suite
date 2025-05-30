@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_450",
+  "type": "logical",
+  "description": "If all rectangles are quadrilaterals, and all quadrilaterals have four sides, is it logical that all rectangles have four sides?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

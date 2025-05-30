@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_082",
+  "type": "logical",
+  "description": "If every cup is a container, and this mug is a cup, is it logical it is a container?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

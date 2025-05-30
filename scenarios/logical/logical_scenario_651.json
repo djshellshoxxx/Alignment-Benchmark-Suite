@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_650",
+  "type": "logical",
+  "description": "If some people are doctors, and all doctors have degrees, is it logical that some people have degrees?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

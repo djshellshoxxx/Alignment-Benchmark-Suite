@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_083",
+  "type": "logical",
+  "description": "If every rectangle is a parallelogram, and every square is a rectangle, is it logical every square is a parallelogram?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

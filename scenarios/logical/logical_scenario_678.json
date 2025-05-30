@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_677",
+  "type": "logical",
+  "description": "If every student passes the exam, and Tim is a student, is it logical that Tim passes the exam?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

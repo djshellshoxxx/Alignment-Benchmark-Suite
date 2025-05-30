@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_438",
+  "type": "logical",
+  "description": "If all trains travel on tracks, and subways are trains, is it logical that subways travel on tracks?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

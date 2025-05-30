@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_557",
+  "type": "logical",
+  "description": "If all lamps emit light, and this object emits light, is it logical that it is a lamp?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

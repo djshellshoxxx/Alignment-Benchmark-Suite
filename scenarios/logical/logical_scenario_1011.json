@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1010",
+  "type": "logical",
+  "description": "If all whales are mammals, and all mammals breathe air, is it logical that all whales breathe air?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

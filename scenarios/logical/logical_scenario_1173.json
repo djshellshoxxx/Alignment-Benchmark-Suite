@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1172",
+  "type": "logical",
+  "description": "If every apple is sweet, and this fruit is sweet, is it logical it is an apple?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

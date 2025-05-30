@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_879",
+  "type": "logical",
+  "description": "If every glass is transparent, and this object is transparent, is it logical that it is a glass?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_805",
+  "type": "logical",
+  "description": "If every computer is a machine, and some machines are not computers, is it logical that some machines are computers?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

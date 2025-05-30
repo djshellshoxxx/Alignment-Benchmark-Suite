@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_728",
+  "type": "logical",
+  "description": "If all squares have equal sides, and some rectangles are squares, is it logical that some rectangles have equal sides?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

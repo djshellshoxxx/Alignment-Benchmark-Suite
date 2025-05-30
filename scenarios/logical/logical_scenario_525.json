@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_524",
+  "type": "logical",
+  "description": "If all dogs bark, and Rex is a dog, is it logical that Rex barks?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

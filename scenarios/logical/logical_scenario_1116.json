@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1115",
+  "type": "logical",
+  "description": "If no fish can walk, and eels are fish, is it logical that eels cannot walk?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

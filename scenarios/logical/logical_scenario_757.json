@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_756",
+  "type": "logical",
+  "description": "If all politicians give speeches, and John gives speeches, is it logical that John is a politician?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

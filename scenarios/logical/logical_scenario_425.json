@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_424",
+  "type": "logical",
+  "description": "If every bus is a vehicle, and all vehicles have wheels, is it logical that every bus has wheels?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

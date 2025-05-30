@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_093",
+  "type": "logical",
+  "description": "If all ice is cold, and this object is cold, is it logical it is ice?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_399",
+  "type": "logical",
+  "description": "If every goat is a mammal, and this animal is not a mammal, is it logical that it is a goat?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_785",
+  "type": "logical",
+  "description": "If all trucks are vehicles, and no vehicles are animals, is it logical that no trucks are animals?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_529",
+  "type": "logical",
+  "description": "If all metals conduct electricity, and gold is a metal, is it logical that gold conducts electricity?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

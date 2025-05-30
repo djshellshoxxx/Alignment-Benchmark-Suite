@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_953",
+  "type": "logical",
+  "description": "If every fish swims, and whales swim, is it logical that whales are fish?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

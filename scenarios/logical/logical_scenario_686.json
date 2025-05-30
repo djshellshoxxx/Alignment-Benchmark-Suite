@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_685",
+  "type": "logical",
+  "description": "If every animal breathes, and all dogs are animals, is it logical that all dogs breathe?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_249",
+  "type": "logical",
+  "description": "If every square is a rhombus, and every rhombus is a parallelogram, is it logical that every square is a parallelogram?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1015",
+  "type": "logical",
+  "description": "If all birds lay eggs, and ostriches are birds, is it logical that ostriches lay eggs?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

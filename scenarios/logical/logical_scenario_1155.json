@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1154",
+  "type": "logical",
+  "description": "If all rain is wet, and this is wet, is it logical that it is rain?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

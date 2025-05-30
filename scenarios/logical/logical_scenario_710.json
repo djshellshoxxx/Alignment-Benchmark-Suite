@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_709",
+  "type": "logical",
+  "description": "If all fish live in water, and some pets are fish, is it logical that some pets live in water?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

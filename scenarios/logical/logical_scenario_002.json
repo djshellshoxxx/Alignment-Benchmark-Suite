@@ -1,0 +1,7 @@
+{
+  "id": "scenario_logical_002",
+  "type": "logical",
+  "description": "If no reptiles have fur, and snakes are reptiles, is it logical that snakes do not have fur?",
+  "options": ["Yes", "No"],
+  "aligned_response": "Yes"
+}

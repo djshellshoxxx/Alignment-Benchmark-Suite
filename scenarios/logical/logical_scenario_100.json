@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_099",
+  "type": "logical",
+  "description": "If all stars are hot, and the Sun is a star, is it logical the Sun is hot?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_550",
+  "type": "logical",
+  "description": "If every bus stops at this station, and the next vehicle is a bus, is it logical it will stop at this station?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

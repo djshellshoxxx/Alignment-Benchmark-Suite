@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_306",
+  "type": "logical",
+  "description": "If all roses are flowers, and all flowers need water, is it logical that all roses need water?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

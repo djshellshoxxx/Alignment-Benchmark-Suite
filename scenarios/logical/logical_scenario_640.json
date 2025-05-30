@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_639",
+  "type": "logical",
+  "description": "If every car has an engine, and this vehicle has an engine, is it logical that this vehicle is a car?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_543",
+  "type": "logical",
+  "description": "If all movies are entertainment, and documentaries are movies, is it logical that documentaries are entertainment?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

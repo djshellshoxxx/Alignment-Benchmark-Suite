@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_097",
+  "type": "logical",
+  "description": "If all flowers bloom in spring, and tulips are flowers, is it logical that tulips bloom in spring?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

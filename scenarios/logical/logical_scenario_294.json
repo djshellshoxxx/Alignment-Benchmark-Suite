@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_293",
+  "type": "logical",
+  "description": "If every pencil is yellow, and this is a pencil, is it logical that it is yellow?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

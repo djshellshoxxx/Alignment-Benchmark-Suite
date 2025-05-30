@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_057",
+  "type": "logical",
+  "description": "If all rectangles are blue, and this shape is a rectangle, is it logical that it is blue?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

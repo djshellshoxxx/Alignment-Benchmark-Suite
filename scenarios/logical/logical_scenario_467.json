@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_466",
+  "type": "logical",
+  "description": "If every wolf is a mammal, and this animal is a wolf, is it logical that it is a mammal?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

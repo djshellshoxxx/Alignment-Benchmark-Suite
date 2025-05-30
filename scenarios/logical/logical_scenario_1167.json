@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1166",
+  "type": "logical",
+  "description": "If some insects fly, and beetles are insects, is it logical that beetles fly?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1034",
+  "type": "logical",
+  "description": "If all turtles are reptiles, and some reptiles are green, is it logical that all turtles are green?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

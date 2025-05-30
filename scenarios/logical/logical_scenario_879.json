@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_878",
+  "type": "logical",
+  "description": "If every planet orbits a star, and Mars orbits a star, is it logical that Mars is a planet?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

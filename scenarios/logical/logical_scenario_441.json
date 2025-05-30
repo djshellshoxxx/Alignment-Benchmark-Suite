@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_440",
+  "type": "logical",
+  "description": "If all birds have feathers, and penguins are birds, is it logical that penguins have feathers?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

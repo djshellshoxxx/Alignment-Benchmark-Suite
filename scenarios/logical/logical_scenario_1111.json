@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1110",
+  "type": "logical",
+  "description": "If some books are interesting, and no boring books are interesting, is it logical that some books are not boring?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

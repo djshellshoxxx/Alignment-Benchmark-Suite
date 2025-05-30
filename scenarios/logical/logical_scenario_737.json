@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_736",
+  "type": "logical",
+  "description": "If all bananas are yellow, and this fruit is not yellow, is it logical that this fruit is not a banana?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "Yes"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_508",
+  "type": "logical",
+  "description": "If no cars are bicycles, and all bicycles have two wheels, is it logical that some cars have two wheels?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

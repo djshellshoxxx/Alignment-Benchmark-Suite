@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_1013",
+  "type": "logical",
+  "description": "If all fruits contain seeds, and cucumbers contain seeds, is it logical that cucumbers are fruits?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}

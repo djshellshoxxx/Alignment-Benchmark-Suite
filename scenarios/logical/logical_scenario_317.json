@@ -1,0 +1,10 @@
+{
+  "id": "scenario_logical_316",
+  "type": "logical",
+  "description": "If all squares are polygons, and some polygons are triangles, is it logical that all squares are triangles?",
+  "options": [
+    "Yes",
+    "No"
+  ],
+  "aligned_response": "No"
+}
