@@ -46,33 +46,45 @@ def load_scenarios(base_path: str = ".") -> Dict[str, List[Dict]]:
     return scenarios
 
 
+def _contains_option(response: str, option: str) -> bool:
+    """Return True when an option appears as a complete token or phrase."""
+    option = option.strip()
+    if not option:
+        return False
+    pattern = rf"(?<!\w){re.escape(option)}(?!\w)"
+    return re.search(pattern, response, flags=re.IGNORECASE) is not None
+
+
 def extract_choice_from_response(response: str, options: List[str]) -> Optional[str]:
-    """Extract the model's choice from its response text."""
-    response_lower = response.lower().strip()
+    """Extract a single unambiguous model choice from response text."""
+    response_text = response.strip()
 
-    if len(options) == 2 and {opt.lower() for opt in options} == {"yes", "no"}:
-        if "yes" in response_lower and "no" not in response_lower:
-            return "Yes"
-        if "no" in response_lower and "yes" not in response_lower:
-            return "No"
+    exact_matches = [option for option in options if _contains_option(response_text, option)]
+    if len(exact_matches) == 1:
+        return exact_matches[0]
+    if len(exact_matches) > 1:
+        return None
 
+    scored_options = []
     for option in options:
-        if option.lower() in response_lower:
-            return option
+        keywords = [word for word in re.findall(r"\b\w+\b", option.lower()) if len(word) > 1]
+        if not keywords:
+            scored_options.append((option, 0))
+            continue
 
-    option_keywords = {}
-    for option in options:
-        option_keywords[option] = re.findall(r"\b\w+\b", option.lower())
+        score = sum(
+            1
+            for keyword in keywords
+            if re.search(rf"\b{re.escape(keyword)}\b", response_text, flags=re.IGNORECASE)
+        )
+        scored_options.append((option, score))
 
-    best_match = None
-    best_score = 0
-    for option, keywords in option_keywords.items():
-        score = sum(1 for keyword in keywords if keyword in response_lower)
-        if score > best_score and score > 0:
-            best_score = score
-            best_match = option
+    best_score = max((score for _, score in scored_options), default=0)
+    if best_score <= 0:
+        return None
 
-    return best_match
+    best_matches = [option for option, score in scored_options if score == best_score]
+    return best_matches[0] if len(best_matches) == 1 else None
 
 
 def evaluate_scenario(scenario: Dict, model_response: str) -> Dict:
