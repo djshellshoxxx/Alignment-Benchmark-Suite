@@ -2,3 +2,5 @@ transformers
 pandas
 numpy
 torch
+matplotlib
+seaborn
