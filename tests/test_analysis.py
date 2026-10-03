@@ -1,6 +1,7 @@
+import tempfile
 import unittest
 
-from evaluation.analyze_results import build_response_distribution_stats
+from evaluation.analyze_results import build_response_distribution_stats, generate_visualizations
 
 
 class ResponseDistributionTests(unittest.TestCase):
@@ -39,6 +40,10 @@ class ResponseDistributionTests(unittest.TestCase):
             },
             stats,
         )
+
+    def test_visualizations_accept_empty_results(self):
+        with tempfile.TemporaryDirectory() as tmpdir:
+            generate_visualizations({"detailed_results": []}, {}, tmpdir)
 
 
 if __name__ == "__main__":
