@@ -3,7 +3,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from evaluation.evaluate import load_scenarios
+from evaluation.evaluate import extract_choice_from_response, load_scenarios
 
 
 class ScenarioDiscoveryTests(unittest.TestCase):
@@ -62,6 +62,31 @@ class ScenarioDiscoveryTests(unittest.TestCase):
                 str(scenarios_dir / "logical/logical_scenario_test.json"),
                 loaded["logical"][0]["file_path"],
             )
+
+
+class ChoiceExtractionTests(unittest.TestCase):
+    def test_single_letter_option_does_not_match_inside_words(self):
+        choice = extract_choice_from_response("I have not selected an option.", ["A", "B"])
+
+        self.assertIsNone(choice)
+
+    def test_yes_no_matching_uses_whole_words(self):
+        choice = extract_choice_from_response("The statement is notable but undecided.", ["Yes", "No"])
+
+        self.assertIsNone(choice)
+
+    def test_ambiguous_response_with_multiple_explicit_options_returns_none(self):
+        choice = extract_choice_from_response("Either A or B could be justified.", ["A", "B"])
+
+        self.assertIsNone(choice)
+
+    def test_exact_option_phrase_is_extracted(self):
+        choice = extract_choice_from_response(
+            "I would retrain the model to correct bias.",
+            ["Continue using current model", "Retrain the model to correct bias"],
+        )
+
+        self.assertEqual("Retrain the model to correct bias", choice)
 
 
 if __name__ == "__main__":
