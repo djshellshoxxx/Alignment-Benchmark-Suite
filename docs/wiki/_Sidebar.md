@@ -1,6 +1,6 @@
 **Alignment Benchmark Suite**
 
-- [Home](Home)
-- [Developer Guide](Developer-Guide)
-- [Scenario Notes](Scenario-Notes)
-- [Codebase Map](Codebase-Map)
+- [Home](Home.md)
+- [Developer Guide](Developer-Guide.md)
+- [Scenario Notes](Scenario-Notes.md)
+- [Codebase Map](Codebase-Map.md)
