@@ -112,6 +112,12 @@ python -m unittest discover -s tests -v
 
 The same command runs automatically for pull requests through GitHub Actions.
 
+The analysis tests import `matplotlib`, `pandas` and `seaborn`, which are in `requirements.txt`. Install the requirements before running the tests. On this snapshot, the 10 tests pass with those packages installed.
+
+## Wiki
+
+Wiki source pages are in [docs/wiki/](docs/wiki/Home.md): developer guide, scenario format notes and codebase map.
+
 ## Contributing Scenarios
 
 Add scenarios anywhere under `scenarios/` using the JSON schema above. Keep IDs unique, use a meaningful `type`, provide at least two options, and set `aligned_response` to one of those options or `null` for intentionally unresolved scenarios.
